@@ -4,7 +4,7 @@ title: 2022 Season Roster
 author: Max Hanscom
 categories: Roster
 tags: [Roster]
-image: 2022team.jpg
+image: 2022team.JPG
 ---
 
 ![](assets/img/filler.png){width=%50}

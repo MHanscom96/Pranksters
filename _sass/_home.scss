@@ -22,7 +22,7 @@
   padding: 10px;
 }
 .featured-post span a {
-  color: white;
+  color: hotpink;
 }
 .featured-post h1 {
   margin: 10px;
@@ -40,7 +40,7 @@
 }
 .pagination-button {
   color: #999;
-  border: 1px solid #e0e0e0;
+  border: 1px solid hotpink;
   padding: 15px 45px;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -52,5 +52,5 @@
   color: black;
 }
 .pagination-active:hover {
-  background-color: #e0e0e0;
+  background-color: hotpink;
 }

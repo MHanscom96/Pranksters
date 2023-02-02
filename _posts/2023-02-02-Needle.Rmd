@@ -1,8 +1,9 @@
+---
 layout: post
 title: Needle in a Ho-Stack
 author: Max Hanscom
 categories: schedule
-tags: [Schedule]
+tags: [schedule]
 image: Needle.jpg
 ---
 

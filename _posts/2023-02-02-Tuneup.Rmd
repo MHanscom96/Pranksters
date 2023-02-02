@@ -1,8 +1,9 @@
+---
 layout: post
 title: FCS D-III Tuneup
 author: Max Hanscom
 categories: schedule
-tags: [Schedule]
+tags: [schedule]
 image: Tuneup.JPG
 ---
 

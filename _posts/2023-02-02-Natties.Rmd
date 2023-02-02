@@ -1,8 +1,9 @@
+---
 layout: post
 title: USA College Nationals
 author: Max Hanscom
 categories: schedule
-tags: [Schedule]
+tags: [schedule]
 image: Natties.JPEG
 ---
 

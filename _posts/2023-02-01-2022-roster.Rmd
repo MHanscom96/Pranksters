@@ -1,0 +1,28 @@
+---
+layout: post
+title: 2022 Season Roster
+author: Max Hanscom
+categories: Roster
+tags: [Roster]
+image: 2022team.jpg
+---
+
+![](assets/img/filler.png)
+
+#1 Max "CJ" Chalfin-Jacobs
+
+![](filler.png)
+
+#2 Ethan "Batman" Lavallee
+
+![](filler.png)
+
+#3 Leo "Creek" Sovell-Fernandez
+
+![](filler.png)
+
+#4 Walker "Walter" Frankenberg
+
+![](test.JPG)
+
+#96 Max "Sunshine" Hanscom

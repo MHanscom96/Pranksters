@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+category: home
 permalink: /home
 ---
 

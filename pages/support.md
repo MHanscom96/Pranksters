@@ -1,7 +1,6 @@
 ---
-layout: category
+layout: page
 title: Donate
-category: support
 permalink: /support
 ---
 

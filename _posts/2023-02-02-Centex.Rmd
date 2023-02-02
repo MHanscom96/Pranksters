@@ -1,0 +1,13 @@
+layout: post
+title: Centex
+author: Max Hanscom
+categories: schedule
+tags: [Schedule]
+image: Centex.jpg
+---
+
+## **When:** March 18-19, 2023
+
+## **Where:** Austin, Texas
+
+## **Score Reporting:** [USA Ultimate](https://play.usaultimate.org/events/Womens-Centex/)

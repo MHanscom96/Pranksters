@@ -9,20 +9,20 @@ image: 2022team.JPG
 
 ![](assets/img/filler.png){width=%50}
 
-#1 Max "CJ" Chalfin-Jacobs
+## #1 Max "CJ" Chalfin-Jacobs
 
 ![](assets/img/filler.png){width=%50}
 
-#2 Ethan "Batman" Lavallee
+## #2 Ethan "Batman" Lavallee
 
 ![](assets/img/filler.png){width=%50}
 
-#3 Leo "Creek" Sovell-Fernandez
+## #3 Leo "Creek" Sovell-Fernandez
 
 ![](assets/img/filler.png){width=%50}
 
-#4 Walker "Walter" Frankenberg
+## #4 Walker "Walter" Frankenberg
 
 ![](test.JPG)
 
-#96 Max "Sunshine" Hanscom
+## #96 Max "Sunshine" Hanscom

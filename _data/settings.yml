@@ -22,6 +22,11 @@ social:
 - {icon: 'envelope', link:   'middultimate@gmail.com'}
 
 # Customize site text
+
+[](assets/img/home.jpg)
+
+Welcome to the Middlebury Pranksters.  Explore our roster, get excited for the season by previewing our schedule, watch highlight videos and more!
+  
 pagination:
   next_page: 'Newer'
   previous_page: 'Older'

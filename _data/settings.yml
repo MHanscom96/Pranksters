@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Roster',             url: 'facts'}
-- {name: '2022-2023 Schedule', url: 'resources'}
-- {name: 'Highlights',         url: 'sample-posts'}
-- {name: 'Support',            url: 'documentation'}
+- {name: 'Roster',             url: 'Roster'}
+- {name: '2022-2023 Schedule', url: 'schedule'}
+- {name: 'Highlights',         url: 'highlights'}
+- {name: 'Support',            url: 'support'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 

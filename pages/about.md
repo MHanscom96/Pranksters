@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+The Middlebury Pranksters are the most succesful Division III college program in the country, with four national championships between them, and a consistent top 3 ranking for the past five seasons. But the Pranksters are more than a team.  They're a community of people who love and support each other and the game of Ultimate.

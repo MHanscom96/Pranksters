@@ -7,6 +7,9 @@ tags: [schedule]
 image: Natties.JPEG
 ---
 
+![](assets/img/Natties.JPEG)
+
+
 ## **When:** May 20-22, 2023
 
 ## **Where:** Columbus, Ohio

@@ -11,105 +11,157 @@ image: 2022team.JPG
 
 ## #1 Max "CJ" Chalfin-Jacobs
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #2 Ethan "Batman" Lavallee
+
+
 
 ![](assets/img/leo.png){width=%50}
 
 ## #3 Leo "Creek" Sovell-Fernandez
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #4 Walker "Walter" Frankenberg
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #5 Charlie "Bird" Harder
 
+
+
 ![](assets/img/josh.jpg){width=%50}
 
 ## #6 Josh "Sims" Spayer
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #8 Ethan "Sriracha" Demaio
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #9 Toby "Baby" Graf
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #10 Noah "Eldzhey" Gettings
 
+
+
 ![](assets/img/sam.jpg){width=%50}
 
 ## #12 Sam "Sammy" Medeiros
+
+
 
 ![](assets/img/trey.jpg){width=%50}
 
 ## #13 Trey "Tr3yw3y" Atkins
 
+
+
 ![](assets/img/jake.jpg){width=%50}
 
 ## #14 Jake "TB12" Lyons
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #18 Max "Zeltz" Zeltsar
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #19 Grady "Gardy" Welsh
+
+
 
 ![](assets/img/cash.jpg){width=%50}
 
 ## #22 Max "Cash" Rogers
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #23 William "William" Fenimore
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #24 Malachi "Coach" Raymond
 
+
+
 ![](assets/img/raffi.jpg){width=%50}
 
 ## #30 Raffi "Raffi-Bomb" Najarian
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #33 Ben "B-Mo" Morris
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #34 Coleman "Cletus" Bashore
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #37 Lucas "Ice" Nerbonne
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #39 Levi "Gary" Hoffman
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #44 Kai "Smokey" Hoadley
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #53 Jorre "LaMelo" Dahl
+
+
 
 ![](assets/img/filler.png){width=%50}
 
 ## #69 Jack "Koojis" Landrigan
 
+
+
 ![](assets/img/filler.png){width=%50}
 
 ## #88 Aiden "Big Dawg" Masters
+
+
 
 ![](assets/img/MaxH.JPG){width=%50}
 

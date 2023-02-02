@@ -7,6 +7,9 @@ tags: [schedule]
 image: Centex.jpg
 ---
 
+![](assets/img/Centex.jpg)
+
+
 ## **When:** March 18-19, 2023
 
 ## **Where:** Austin, Texas

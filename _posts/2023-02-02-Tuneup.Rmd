@@ -7,6 +7,9 @@ tags: [schedule]
 image: Tuneup.JPG
 ---
 
+![](assets/img/Tuneup.JPG)
+
+
 ## **When:** March 3-4, 2023
 
 ## **Where:** Advance, North Carolina

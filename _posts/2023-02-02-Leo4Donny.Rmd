@@ -7,6 +7,8 @@ tags: [highlights]
 image: leo.png
 ---
 
+![](assets/img/leo.png)
+
 
 # [Highlight Video](https://www.youtube.com/watch?v=OvNKOjEe-pw)
 

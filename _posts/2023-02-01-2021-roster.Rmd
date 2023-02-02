@@ -7,19 +7,19 @@ tags: [Roster]
 image: 2021team.jpg
 ---
 
-![](assets/img/filler.png)
+![](assets/img/filler.png){width=%50}
 
 #2 Ethan "Batman" Lavallee
 
-![](filler.png)
+![](assets/img/filler.png){width=%50}
 
 #3 Leo "Creek" Sovell-Fernandez
 
-![](filler.png)
+![](assets/img/filler.png){width=%50}
 
 #4 Walker "Walter" Frankenberg
 
-![](filler.png)
+![](assets/img/filler.png){width=%50}
 
 #29 George "Orgy" Drumheller
 

@@ -7,6 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Home',               url: 'home'}
 - {name: 'Roster',             url: 'Roster'}
 - {name: '2022-2023 Schedule', url: 'schedule'}
 - {name: 'Highlights',         url: 'highlights'}

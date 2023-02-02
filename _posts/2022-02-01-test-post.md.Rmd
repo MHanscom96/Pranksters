@@ -1,8 +1,11 @@
 ---
-title: "2022-02-01-test-post.md"
-author: "Max Hanscom"
-date: "2023-02-01"
-output: html_document
+layout: post
+title: test post
+author: Max Hanscom
+categories: Donovan Videos
+tags: [highlights]
+image: Norcoteam.jpeg
 ---
+
 
 Hi My name is Max

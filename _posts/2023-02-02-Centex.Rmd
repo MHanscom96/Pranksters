@@ -2,7 +2,7 @@ layout: post
 title: Centex
 author: Max Hanscom
 categories: schedule
-tags: [Schedule]
+tags: [schedule]
 image: Centex.jpg
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: test post
 author: Max Hanscom
-categories: Donovan Videos
-tags: [highlights]
+categories: Roster
+tags: [Roster]
 image: Norcoteam.jpeg
 ---
 
